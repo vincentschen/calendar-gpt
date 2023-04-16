@@ -1,0 +1,11 @@
+# app
+icalendar==4.0.9
+streamlit==1.21.0
+langchain==0.0.139
+chromadb==0.3.21
+tiktoken==0.3.3
+
+# dev
+black==22.10.0
+flake8==5.0.4
+isort==5.11.3

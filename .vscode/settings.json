@@ -1,0 +1,6 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": ["--reports", "12", "--disable", "I0011"],
+    "python.linting.flake8Args": ["--ignore=E24,W504", "--verbose"],
+    "python.linting.pydocstyleArgs": ["--ignore=D400", "--ignore=D4"]
+}
